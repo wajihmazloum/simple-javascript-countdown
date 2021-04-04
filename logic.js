@@ -1,4 +1,4 @@
-var date = window.prompt("please enter the the date that you eant to countdown to", "April 4, 2025 03:22:12")
+var date = window.prompt("please enter the the date that you want to countdown to", "April 4, 2025 03:22:12")
 
 setInterval(function() {
     var countDownDate = new Date(date).getTime();
