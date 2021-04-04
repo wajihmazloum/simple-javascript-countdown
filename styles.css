@@ -1,0 +1,23 @@
+.container {
+    background-color: rgb(71, 209, 156);
+    border-radius: 0.1%;
+    width: 90%;
+    margin: 3% auto;
+}
+
+.field {
+    background-color: white;
+    height: 100px;
+    width: 70%;
+    margin: 5% auto;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 35px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
